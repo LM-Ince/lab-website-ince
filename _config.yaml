@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Louise Ince
+description: Neuroscience | Immunology | Chronobiology
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,11 @@ baseurl: /lab-website-ince
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: louise.ince@austin.utexas.edu
+  google-scholar: Louise Ince
+  github: LM-Ince
+  twitter: LM_Ince
+ 
 
 ### advanced settings
 

@@ -2,27 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Rhythms of Life
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+Neuroscience | Immunology | Chronobiology
 {:.center}
 
 {% include section.html full=true %}
@@ -34,13 +16,12 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I study how the neuroimmune response changes according to time of day.
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -51,18 +32,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Current Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I have identified rhythms in adaptive and innate immune responses.
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="research"
+  text="See publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -72,19 +52,19 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="research"
+  title="Previous Research"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I have worked with many great people!
 
 {%
   include link.html
   link="team"
-  text="Meet our team"
+  text="See Collaborators"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -95,9 +75,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Collaborators"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to help people live better, longer.
