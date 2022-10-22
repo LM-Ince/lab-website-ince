@@ -1,16 +1,13 @@
 ---
-title: Tools
+title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Current projects
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-projects"></i>Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I aim to understand the interactions between the circadian and neuroimmune systems, and to determine how circadian disruption impairs cognition via neuroinflammatory mechanisms (e.g., in aging and pathology).
 
 {% include search-info.html %}
 
@@ -22,6 +19,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## More
+<!-- ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="tools" filters="group: more" style="small" %} -->
