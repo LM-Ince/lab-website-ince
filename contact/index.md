@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-I am part of the [Fonken lab](https://www.fonkenlab.com/), in the [Department of Pharmacology & Toxicology](https://pharmacy.utexas.edu/research-practice/college-divisions/pharmacology-toxicology), at [The University of Texas at Austin](https://www.utexas.edu/).
+I am part of the [Fonken lab](https://www.fonkenlab.com/), in the [Department of Pharmacology & Toxicology](https://pharmacy.utexas.edu/research-practice/college-divisions/pharmacology-toxicology) at [The University of Texas at Austin](https://www.utexas.edu/).
 
 {%
   include link.html
@@ -18,7 +18,6 @@ I am part of the [Fonken lab](https://www.fonkenlab.com/), in the [Department of
   link="louise.ince@austin.utexas.edu"
   style="button"
 %}
-
 {%
   include link.html
   type="address"
@@ -43,7 +42,7 @@ USA
 
 {%
   include figure.html
-  image="images/UT Tower.jpg"
+  image="images/UT Fountain.jpg"
   caption="UT Austin"
 %}
 {:.center}
