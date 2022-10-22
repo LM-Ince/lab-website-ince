@@ -1,31 +1,304 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1038/nm.3599
-  title: An epithelial circadian clock controls pulmonary inflammation and glucocorticoid
-    action
+- id: 10.1101/2022.06.06.22275886
+  title: 'Measuring circadian rhythms in patients with dementia: protocol for a scoping
+    review'
   authors:
+  - Victoria G. Gabb
+  - Louise M. Ince
+  - Sarah Rudd
+  - Elizabeth Coulthard
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-06'
+  link: https://doi.org/gq328b
+  image: images/logo.svg
+  _cache: 733ff9f5859f810fffb03329dcb117eabc94ca08b888e02ef82ac15ab56f2907
+- id: doi:10.1111/pim.12905
+  title: 'Introduction to biological rhythms: A brief history of chronobiology and
+    its relevance to parasite immunology'
+  authors:
+  - Louise Madeleine Ince
+  publisher: Parasite Immunology
+  date: '2022-02-02'
+  link: https://doi.org/gq328c
+  image: images/logo.svg
+  _cache: a68e96ed396e0306752d583778469235487765f7a06824c695a07a8e99e51b33
+- id: doi:10.1038/s41590-021-01040-x
+  title: Circadian clocks guide dendritic cells into skin lymphatics
+  authors:
+  - Stephan J. Holtkamp
+  - Louise M. Ince
+  - Coline Barnoud
+  - Madeleine T. Schmitt
+  - Flore Sinturel
+  - Violetta Pilorz
+  - Robert Pick
+  - "St\xE9phane Jemelin"
+  - "Michael M\xFChlst\xE4dt"
+  - Wolf-Henning Boehncke
+  - Jasmin Weber
+  - David Laubender
+  - Julia Philippou-Massier
+  - Chien-Sin Chen
+  - Leonie Holtermann
+  - Dietmar Vestweber
+  - Markus Sperandio
+  - Barbara U. Schraml
+  - Cornelia Halin
+  - Charna Dibner
+  - Henrik Oster
+  - "J\xF6rg Renkawitz"
+  - Christoph Scheiermann
+  publisher: Nature Immunology
+  date: '2021-10-18'
+  link: https://doi.org/gq25m8
+  image: images/logo.svg
+  _cache: 900c269d78b5c49573167017c6e1fb7bdcc177075aac9e4811e8c15d3ac4aacb
+- id: doi:10.1084/jem.20202377
+  title: "Loss of direct adrenergic innervation after peripheral nerve injury causes\
+    \ lymph node expansion through IFN-\u03B3"
+  authors:
+  - Chien-Sin Chen
+  - Jasmin Weber
+  - Stephan Jonas Holtkamp
+  - Louise Madeleine Ince
+  - Alba de Juan
+  - Chen Wang
+  - Lydia Lutes
+  - Coline Barnoud
+  - Burak Kizil
+  - Sophia Martina Hergenhan
+  - Johanna Salvermoser
+  - Manuel Lasch
+  - Elisabeth Deindl
+  - Barbara Schraml
+  - Dirk Baumjohann
+  - Christoph Scheiermann
+  publisher: Journal of Experimental Medicine
+  date: '2021-06-04'
+  link: https://doi.org/gq328d
+  image: images/logo.svg
+  _cache: 56e368e30c774319b4afcafa12ceefd543c9b22fd0f5325be43df5330f749d61
+- id: doi:10.3389/fimmu.2021.669889
+  title: Immunologic Profiling of the Atlantic Salmon Gill by Single Nuclei Transcriptomics
+  authors:
+  - Alexander C. West
+  - Yasutaka Mizoro
+  - Shona H. Wood
+  - Louise M. Ince
+  - Marianne Iversen
+  - "Even H. J\xF8rgensen"
+  - Torfinn Nome
+  - "Simen R\xF8d Sandve"
+  - Samuel A. M. Martin
+  - Andrew S. I. Loudon
+  - David G. Hazlerigg
+  publisher: Frontiers in Immunology
+  date: '2021-05-04'
+  link: https://doi.org/gq328f
+  image: images/logo.svg
+  _cache: 3d2ada0d32cf1a8dd760f4b01fc66be4ba22868a5e3cab7a832c0f301db55015
+- id: doi:10.1177/0748730420987669
+  title: 'Clocks, Viruses, and Immunity: Lessons for the COVID-19 Pandemic'
+  authors:
+  - Shaon Sengupta
+  - Louise Ince
+  - Francesca Sartor
+  - Helene Borrmann
+  - Xiaodong Zhuang
+  - Amruta Naik
+  - Annie Curtis
+  - Jane A. McKeating
+  publisher: Journal of Biological Rhythms
+  date: '2021-01-22'
+  link: https://doi.org/gp6dvn
+  image: images/logo.svg
+  _cache: a35924df52bc895619a83e7df59cac16554a519264be67160c60c06fe9c62021
+- id: doi:10.1101/2020.09.03.281337
+  title: A single nuclei transcriptomic analysis of the Atlantic salmon gill through
+    smoltification and seawater transfer
+  authors:
+  - Alexander C. West
+  - Yasutaka Mizoro
+  - Shona H. Wood
+  - Louise M. Ince
+  - Marianne Iversen
+  - "Even H. J\xF8rgensen"
+  - Torfinn Nome
+  - "Simen R\xF8d Sandve"
+  - Andrew S. I. Loudon
+  - David G. Hazlerigg
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-03'
+  link: https://doi.org/gq328g
+  image: images/logo.svg
+  _cache: 8b190cfc7b8a1952ef46669e6eb85ca0557b8648dc02dd9208256fdfab904b4e
+- id: doi:10.1038/s41598-019-44963-0
+  title: Caveolin1 interacts with the glucocorticoid receptor in the lung but is dispensable
+    for its anti-inflammatory actions in lung inflammation and Trichuris Muris infection
+  authors:
+  - G. Caratti
+  - T. Poolman
+  - R. J. Hurst
+  - L. Ince
+  - A. Knight
+  - K. Krakowiak
+  - H. J. Durrington
+  - J. Gibbs
+  - K. J. Else
+  - L. C. Matthews
+  - D. W. Ray
+  publisher: Scientific Reports
+  date: '2019-06-12'
+  link: https://doi.org/gq328h
+  image: images/logo.svg
+  _cache: 5cf7940ac84bca6114152eea3ee6ab38e2b63ba77de9b38326faa9aeac047d87
+- id: doi:10.1161/circulationaha.119.040232
+  title: Artery-Associated Sympathetic Innervation Drives Rhythmic Vascular Inflammation
+    of Arteries and Veins
+  authors:
+  - Alba de Juan
+  - Louise Madeleine Ince
+  - Robert Pick
+  - Chien-Sin Chen
+  - Filippo Molica
+  - Gabriele Zuchtriegel
+  - Chen Wang
+  - Dachuan Zhang
+  - David Druzd
+  - Maximilian E.T. Hessenauer
+  - Graziano Pelli
+  - Isa Kolbe
+  - Henrik Oster
+  - Colette Prophete
+  - Sophia Martina Hergenhan
+  - Urs Albrecht
+  - "J\xFCrgen Ripperger"
+  - Eloi Montanez
+  - Christoph A. Reichel
+  - Oliver Soehnlein
+  - Brenda R. Kwak
+  - Paul S. Frenette
+  - Christoph Scheiermann
+  publisher: Circulation
+  date: '2019-09-24'
+  link: https://doi.org/gh9cdv
+  image: images/logo.svg
+  _cache: 697480b6714283b08ffd975b6495db483e83811272c6f10a3493b9e4162d8af5
+- id: doi:10.1016/j.immuni.2018.10.007
+  title: Circadian Expression of Migratory Factors Establishes Lineage-Specific Signatures
+    that Guide the Homing of Leukocyte Subsets to Tissues
+  authors:
+  - Wenyan He
+  - Stephan Holtkamp
+  - Sophia Martina Hergenhan
+  - Kerstin Kraus
+  - Alba de Juan
+  - Jasmin Weber
+  - Paul Bradfield
+  - Julien Martin Pierre Grenier
+  - Jeoffrey Pelletier
+  - David Druzd
+  - Chien-Sin Chen
+  - Louise Madeleine Ince
+  - Susanne Bierschenk
+  - Robert Pick
+  - Markus Sperandio
+  - Michel Aurrand-Lions
+  - Christoph Scheiermann
+  publisher: Immunity
+  date: '2018-12-01'
+  link: https://doi.org/gq328j
+  image: images/logo.svg
+  _cache: cce32711d37fb754c693ccd0b8c7cde128ca7817397e5423bde6c1386f5795e1
+- id: doi:10.1016/j.cophys.2018.04.005
+  title: Lung physiology and defense
+  authors:
+  - Louise M Ince
+  - Marie Pariollaud
+  - Julie E Gibbs
+  publisher: Current Opinion in Physiology
+  date: '2018-10-01'
+  link: https://doi.org/gq328k
+  image: images/logo.svg
+  _cache: 11d5b41166c52f69f3ac2eb491187f3ec306b09be6cdffe7261986389188fb50
+- id: doi:10.1172/JCI96138
+  title: REVERBa couples the circadian clock to hepatic glucocorticoid action
+  authors:
+  - Giorgio Caratti
+  - Mudassar Iqbal
+  - Louise Hunter
+  - Donghwan Kim
+  - Ping Wang
+  - Ryan M. Vonslow
+  - Nicola Begley
+  - Abigail J. Tetley
+  - Joanna L. Woodburn
+  - Marie Pariollaud
+  - Robert Maidstone
+  - Ian J. Donaldson
+  - Zhenguang Zhang
+  - Louise M. Ince
+  - Gareth Kitchen
+  - Matthew Baxter
+  - Toryn M. Poolman
+  - Dion A. Daniels
+  - David R. Stirling
+  - Chad Brocker
+  - Frank Gonzalez
+  - Andrew S.I. Loudon
+  - David A. Bechtold
+  - Magnus Rattray
+  - Laura C. Matthews
+  - David W. Ray
+  publisher: "Journal of Clinical\n                    Investigation"
+  date: '2018-09-04'
+  link: https://doi.org/gq328m
+  image: images/logo.svg
+  _cache: 39d3a361361f2e33f624ffbf3b8c72def3bd08ded08bc251309e1563b7af1b90
+- id: doi:10.1096/fj.201800026rr
+  title: Circadian variation in pulmonary inflammatory responses is independent of
+    rhythmic glucocorticoid signaling in airway epithelial cells
+  authors:
+  - Louise M. Ince
+  - Zhenguang Zhang
+  - Stephen Beesley
+  - Ryan M. Vonslow
+  - Ben R. Saer
+  - Laura C. Matthews
+  - Nicola Begley
+  - Julie E. Gibbs
+  - W. David Ray
+  - S. I. Andrew Loudon
+  publisher: The FASEB Journal
+  date: '2018-07-02'
+  link: https://doi.org/gdszcn
+  image: images/logo.svg
+  _cache: ff0290ea35abbe7c196535fe33cbf72025ec2deabb195e8e6a3c42c06ac1e222
+- id: doi:10.1038/s41577-018-0008-4
+  title: Clocking in to immunity
+  authors:
+  - Christoph Scheiermann
   - Julie Gibbs
   - Louise Ince
-  - Laura Matthews
-  - Junjie Mei
-  - Thomas Bell
-  - Nan Yang
-  - Ben Saer
-  - Nicola Begley
-  - Toryn Poolman
-  - Marie Pariollaud
-  - Stuart Farrow
-  - Francesco DeMayo
-  - Tracy Hussell
-  - G Scott Worthen
-  - David Ray
   - Andrew Loudon
-  publisher: Nature Medicine
-  date: '2014-07-27'
-  link: https://doi.org/twf
+  publisher: Nature Reviews Immunology
+  date: '2018-04-16'
+  link: https://doi.org/gdsxv7
   image: images/logo.svg
-  _cache: 074c6c2daf419606a2b4417f24c23c8de6a10d89b2354e773a95e4ba8963aed3
+  _cache: 95f27cede53030d2e18206e72f6f71b72269fd001053436c7b58c17dce588d6b
+- id: doi:10.3389/fimmu.2018.03143
+  title: Control of Leukocyte Trafficking by Stress-Associated Hormones
+  authors:
+  - Louise M. Ince
+  - Jasmin Weber
+  - Christoph Scheiermann
+  publisher: Frontiers in Immunology
+  date: '2019-01-11'
+  link: https://doi.org/gf6j3s
+  image: images/logo.svg
+  _cache: bd73f34e61afd965ddaaf9fba0b1adf4e1578563b46003ff9a7d7d769c43bb78
 - id: doi:10.1016/j.immuni.2016.12.011
   title: Lymphocyte Circadian Clocks Control Lymph Node Trafficking and Adaptive Immune
     Responses
@@ -58,3 +331,53 @@
   link: https://doi.org/f9qvf7
   image: images/logo.svg
   _cache: bd49728fd6bf9408b3afdee7df08b17c0c8cbaccb495030160960f7650f74037
+- id: doi:10.1007/978-1-4939-3450-8
+  title: 'Circadian Clocks: Role in Health and Disease'
+  authors: []
+  publisher: Springer New York
+  date: '2016-01-01'
+  link: https://doi.org/gq328n
+  image: images/logo.svg
+  _cache: 77e5341872bffb909f795a2cbf26d1e958a446c3c72a9ded4acb9827ea9e2713
+- id: doi:10.1530/joe-14-0456
+  title: Serum cholesterol selectively regulates glucocorticoid sensitivity through
+    activation of JNK
+  authors:
+  - Nan Yang
+  - Giorgio Caratti
+  - Louise M Ince
+  - Toryn M Poolman
+  - Peter J Trebble
+  - Cathy M Holt
+  - David W Ray
+  - Laura C Matthews
+  publisher: Journal of Endocrinology
+  date: '2014-08-26'
+  link: https://doi.org/f6mq72
+  image: images/logo.svg
+  _cache: 6c453739d2e16c11e107b362769cf920a2bbde9567459dc3d40fbd7e3e48e982
+- id: doi:10.1038/nm.3599
+  title: An epithelial circadian clock controls pulmonary inflammation and glucocorticoid
+    action
+  authors:
+  - Julie Gibbs
+  - Louise Ince
+  - Laura Matthews
+  - Junjie Mei
+  - Thomas Bell
+  - Nan Yang
+  - Ben Saer
+  - Nicola Begley
+  - Toryn Poolman
+  - Marie Pariollaud
+  - Stuart Farrow
+  - Francesco DeMayo
+  - Tracy Hussell
+  - G Scott Worthen
+  - David Ray
+  - Andrew Loudon
+  publisher: Nature Medicine
+  date: '2014-07-27'
+  link: https://doi.org/twf
+  image: images/logo.svg
+  _cache: 074c6c2daf419606a2b4417f24c23c8de6a10d89b2354e773a95e4ba8963aed3
