@@ -1,7 +1,7 @@
 ---
 title: Projects
 nav:
-  order: 2
+  order: 1
   tooltip: Current projects
 ---
 
@@ -15,10 +15,10 @@ I aim to understand the interactions between the circadian and neuroimmune syste
 
 ## Featured
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
 <!-- ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %} -->
+{% include list.html component="card" data="projects" filters="group: more" style="small" %} -->

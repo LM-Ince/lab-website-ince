@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: Adventures in Science
+  tooltip: Adventures in science
 ---
 
 # <i class="fas fa-feather-alt"></i>News

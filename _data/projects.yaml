@@ -1,22 +1,22 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Circadian clocks in microglia
+  subtitle: How does the microglial clock regulate neuroinflammation?
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: LM-Ince/lab-website-ince
-  tags:
-    - resource
+  # link: https://github.com/
+  description: Using cell-specific disruption of the key clock element Bmal1, I am testing how microglial clocks regulate neuroinflammatory responses and behavior.
+  # repo: LM-Ince/lab-website-ince
+  # tags:
+  #   - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Circadian approaches to increase healthspan
+  subtitle: Can we live better longer by harnessing our circadian system?
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: LM-Ince/lab-website-ince
-  tags:
-    - resource
+  # link: https://github.com/
+  description: I am testing how time-restricted feeding modulates neuroinflammation and behavior in aging.
+  # repo: LM-Ince/lab-website-ince
+  # tags:
+  #   - resource
 
 - title: Cool Tutorial
   group: more
