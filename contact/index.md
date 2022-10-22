@@ -25,7 +25,7 @@ I am part of the [Fonken lab](https://www.fonkenlab.com/), in the [Department of
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps/place/The+University+of+Texas+at+Austin+Biomedical+Engineering+(BME)/@30.2893706,-97.741015,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5831f0c4335:0xd1b21a4c7b9709a1!8m2!3d30.2893738!4d-97.7388712]"
+  link="https://www.google.com/maps/place/The+University+of+Texas+at+Austin+Biomedical+Engineering+(BME)/@30.2893706,-97.741015,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5831f0c4335:0xd1b21a4c7b9709a1!8m2!3d30.2893738!4d-97.7388712"
   style="button"
 %}
 {:.center}
