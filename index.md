@@ -20,7 +20,7 @@ I study how the neuroimmune response changes according to time of day.
 
 {%
   include link.html
-  link="research"
+  link="projects"
   text="See projects"
   icon="fas fa-arrow-right"
   flip=true
@@ -31,7 +31,7 @@ I study how the neuroimmune response changes according to time of day.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="projects"
   title="Current Research"
   text=text
 %}
