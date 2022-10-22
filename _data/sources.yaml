@@ -1,8 +1,61 @@
+- id: 10.1101/2022.06.06.22275886
+  image: images/logo.svg
+
+- id: doi:10.1111/pim.12905
+  image: images/logo.svg
+
+- id: doi:10.1038/s41590-021-01040-x
+  image: images/logo.svg
+
+- id: doi:10.1084/jem.20202377
+  image: images/logo.svg
+
+- id: doi:10.3389/fimmu.2021.669889
+  image: images/logo.svg 
+
+- id: doi:10.1177/0748730420987669
+  image: images/logo.svg 
+
+- id: doi:10.1101/2020.09.03.281337
+  image: images/logo.svg 
+
+- id: doi:10.1038/s41598-019-44963-0
+  image: images/logo.svg 
+
+- id: doi:10.1161/circulationaha.119.040232
+  image: images/logo.svg 
+
+- id: doi:10.1016/j.immuni.2018.10.007
+  image: images/logo.svg 
+
+- id: doi:10.1016/j.cophys.2018.04.005
+  image: images/logo.svg 
+
+- id: doi:10.1172/JCI96138
+  image: images/logo.svg
+
+- id: doi:10.1096/fj.201800026rr
+  image: images/logo.svg 
+
+- id: doi:10.1038/s41577-018-0008-4
+  image: images/logo.svg 
+
+- id: doi:10.3389/fimmu.2018.03143
+  image: images/logo.svg 
+
+- id: doi:10.1016/j.immuni.2016.12.011
+  image: images/logo.svg 
+
+- id: doi:10.1007/978-1-4939-3450-8
+  image: images/logo.svg 
+
+- id: doi:10.1530/joe-14-0456
+  image: images/logo.svg 
+
 - id: doi:10.1038/nm.3599
   image: images/logo.svg
- 
-- id: doi:10.1016/j.immuni.2016.12.011
-  image: images/logo.svg
+
+
 
 # - id: doi:10.7554/eLife.32822
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
