@@ -17,31 +17,3 @@
   # repo: LM-Ince/lab-website-ince
   # tags:
   #   - resource
-
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: LM-Ince/lab-website-ince
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: LM-Ince/lab-website-ince
-  tags:
-    - software
-
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: LM-Ince/lab-website-ince
-  tags:
-    - software
