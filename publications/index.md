@@ -1,11 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 2
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-microscope"></i>Publications
 
 
 {% include section.html %}

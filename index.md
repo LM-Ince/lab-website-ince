@@ -4,7 +4,7 @@ title: Home
 
 # Rhythms of Life
 
-Neuroscience | Immunology | Chronobiology
+Neuroscience - Immunology - Chronobiology
 {:.center}
 
 {% include section.html full=true %}
@@ -41,7 +41,7 @@ I have identified rhythms in adaptive and innate immune responses.
 
 {%
   include link.html
-  link="research"
+  link="publications"
   text="See publications"
   icon="fas fa-arrow-right"
   flip=true
@@ -51,14 +51,14 @@ I have identified rhythms in adaptive and innate immune responses.
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="images/Research Accomplishments.png"
+  link="publications"
   title="Previous Research"
   flip=true
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 I have worked with many great people!
 
 {%
@@ -77,6 +77,6 @@ I have worked with many great people!
   link="team"
   title="Collaborators"
   text=text
-%}
+%} -->
 
 By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to help people live better, longer.
