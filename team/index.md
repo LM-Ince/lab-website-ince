@@ -7,10 +7,7 @@ title: Team
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 2 awesome undergraduate students:
 
 {% include section.html %}
 
@@ -36,12 +33,11 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I also maintain close connections with my previous colleagues in the [Scheiermann lab](http://scheiermannlab.de/).
 
 {% include section.html %}
 
-## Join
+<!-- ## Join
 
 #### Post Dogtoral Researcher
 
@@ -54,22 +50,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include section.html %}
+{% include section.html %} -->
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from the NIH (R01AG078758) and start-up funds to Dr. Laura Fonken.
 {:.center}
 
 {%
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/Logo NIH.png"
+  link1="https://www.nia.nih.gov/"
+  tooltip1="NIH"
 
-  image2="images/photo.jpg"
+  <!-- image2="images/photo.jpg"
   link2="https://nasa.gov/"
   tooltip2="Cool Institute"
 
@@ -87,5 +83,5 @@ Our work is made possible by funding from several organizations.
 
   image6="images/photo.jpg"
   link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  tooltip6="Cool Initiative" -->
 %}
