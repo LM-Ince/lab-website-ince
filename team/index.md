@@ -64,24 +64,4 @@ Our work is made possible by funding from the NIH (R01AG078758) and start-up fun
   image1="images/Logo NIH.png"
   link1="https://www.nia.nih.gov/"
   tooltip1="NIH"
-
-  <!-- image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative" -->
 %}
