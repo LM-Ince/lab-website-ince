@@ -1,14 +1,14 @@
 - title: Circadian clocks in microglia
   subtitle: How does the microglial clock regulate neuroinflammation?
   group: featured
-  image: images/photo.jpg
+  image: images/Microglia Clock.png
   # link: https://github.com/
   description: Using cell-specific disruption of the key clock element Bmal1, I am testing how microglial clocks regulate neuroinflammatory responses and behavior.
   # repo: LM-Ince/lab-website-ince
   # tags:
   #   - resource
 
-- title: Circadian approaches to increase healthspan
+- title: Novel approaches to increase healthspan
   subtitle: Can we live better longer by harnessing our circadian system?
   group: featured
   image: images/photo.jpg

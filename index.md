@@ -2,9 +2,10 @@
 title: Home
 ---
 
-# Rhythms of Life
+# Neuroimmunology around the clock
 
 Neuroscience - Immunology - Chronobiology
+By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to help people live better, longer.
 {:.center}
 
 {% include section.html full=true %}
@@ -16,7 +17,7 @@ Neuroscience - Immunology - Chronobiology
 # Highlights
 
 {% capture text %}
-I study how the neuroimmune response changes according to time of day.
+I study how circadian rhythms regulate the neuroimmune response, from the molecular to behavioral level.
 
 {%
   include link.html
@@ -30,14 +31,14 @@ I study how the neuroimmune response changes according to time of day.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Microglia Clock.png"
   link="projects"
   title="Current Research"
   text=text
 %}
 
 {% capture text %}
-I have identified rhythms in adaptive and innate immune responses.
+My previous work identified rhythms in adaptive and innate immune responses, including immune cell migration, inflammatory cytokine production, and vaccination responses.
 
 {%
   include link.html
@@ -58,13 +59,13 @@ I have identified rhythms in adaptive and innate immune responses.
   text=text
 %}
 
-<!-- {% capture text %}
-I have worked with many great people!
+{% capture text %}
+I am currently a research associate in the [Fonken lab](https://www.fonkenlab.com/), where I mentor 2 undergraduate students.
 
 {%
   include link.html
   link="team"
-  text="See Collaborators"
+  text="See the Team"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -75,8 +76,8 @@ I have worked with many great people!
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Collaborators"
+  title="Team"
   text=text
-%} -->
+%}
 
-By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to help people live better, longer.
+
