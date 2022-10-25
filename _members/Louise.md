@@ -1,7 +1,7 @@
 ---
 name: Louise Ince
 image: images/Louise Ince - Square.jpg
-description: 
+description: Research Associate
 role: research associate
 aliases:
   - L. Ince
