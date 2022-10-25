@@ -35,17 +35,30 @@ I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I 
 
 ## Funding
 
-Our work is made possible by funding from the NIH (R01AG078758) and start-up funds to Dr. Laura Fonken.
+{% capture text %}
+Our work is made possible by funding from the NIH (R01AG078758 - PI: Laura Fonken, Co-I: Louise Ince, Co-I: Andrew Gaudet) and start-up funds to Dr. Laura Fonken.
+
 {:.center}
+{% endcapture %}
 
 {%
+  include feature.html
+  image="images/Logo NIH.png"
+  imagetitle="NIA"
+  text=text
+%}
+
+<!-- Our work is made possible by funding from the NIH (R01AG078758) and start-up funds to Dr. Laura Fonken.
+{:.center} -->
+
+<!-- {%
   include gallery.html
   style="square"
 
   image1="images/Logo NIH.png"
   link1="https://www.nia.nih.gov/"
   tooltip1="NIH"
-%}
+%} -->
 
 <!-- ## Join
 
