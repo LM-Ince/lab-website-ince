@@ -7,12 +7,13 @@ title: Home
 Neuroscience - Immunology - Chronobiology
 {:.center}
 
+
 By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to help people live better, longer.
 {:.center}
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/Banner-thin.jpg" %}
+{% include banner.html image="images/Banner-ultra.jpg" %}
 
 {% include section.html %}
 
@@ -36,6 +37,7 @@ I study how circadian rhythms regulate the neuroimmune response, from the molecu
   image="images/Microglia Clock.png"
   link="projects"
   title="Current Research"
+  imagetitle="Created with Biorender.com"
   text=text
 %}
 
@@ -57,6 +59,7 @@ My previous work identified rhythms in adaptive and innate immune responses, inc
   image="images/Research Accomplishments.png"
   link="publications"
   title="Previous Research"
+  imagetitle="Created with Biorender.com"
   flip=true
   text=text
 %}
