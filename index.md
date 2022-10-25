@@ -6,9 +6,7 @@ title: Home
 
 Neuroscience - Immunology - Chronobiology
 {:.center}
-
 <br/>
-
 By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to help people live better, longer.
 {:.center}
 
