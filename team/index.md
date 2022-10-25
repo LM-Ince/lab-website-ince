@@ -15,7 +15,7 @@ I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I 
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: research associate"
 %}
 {%
   include list.html
