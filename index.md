@@ -5,6 +5,7 @@ title: Home
 # Neuroimmunology around the clock
 
 Neuroscience - Immunology - Chronobiology
+
 By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to help people live better, longer.
 {:.center}
 
@@ -65,7 +66,7 @@ I am currently a research associate in the [Fonken lab](https://www.fonkenlab.co
 {%
   include link.html
   link="team"
-  text="See the Team"
+  text="See the team"
   icon="fas fa-arrow-right"
   flip=true
 %}
