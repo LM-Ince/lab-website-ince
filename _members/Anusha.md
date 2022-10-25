@@ -12,6 +12,6 @@ role: undergraduate
 #   github: anne-chovie
 ---
 
-Anusha Dabak is an sophomore majoring in neuroscience in the Polymathic Scholars honors program and minoring in studio art. 
+Anusha Dabak is a junior majoring in Neuroscience in the Polymathic Scholars honors program. 
 
-Outside of research, she enjoys painting, running, baking/cooking, and playing soccer. 
+Outside of research, she enjoys painting, running, baking/cooking, and hiking. 
