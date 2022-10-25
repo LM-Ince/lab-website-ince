@@ -27,17 +27,15 @@ I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I 
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: undergraduate"
 %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-I also maintain close connections with my previous colleagues in the [Scheiermann lab](http://scheiermannlab.de/).
+<!-- {% include section.html %}
 
-{% include section.html %}
-
-<!-- ## Join
+## Join
 
 #### Post Dogtoral Researcher
 
@@ -48,9 +46,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Aptitude to sit and stay
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
+{:.center} -->
 
-{% include section.html %} -->
+{% include section.html %}
 
 ## Funding
 

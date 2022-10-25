@@ -14,4 +14,5 @@ role: undegraduate
 ---
 
 Krishi is a senior majoring in Neuroscience in the Dean’s Scholars Honors Program. 
+
 Outside of research and academics, he likes to explore Austin, exercise, and enjoy the food scene with his friends.
