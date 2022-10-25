@@ -12,7 +12,7 @@ By studying the changes to rhythmic immune function in aging, I aim to identify 
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/Banner-red.jpg" %}
+{% include banner.html image="images/Banner-thin.jpg" %}
 
 {% include section.html %}
 
