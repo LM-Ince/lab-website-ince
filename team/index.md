@@ -31,7 +31,7 @@ I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I 
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/Banner-red.jpg" dark=true%}
 
 <!-- {% include section.html %}
 
