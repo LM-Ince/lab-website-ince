@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 2 awesome undergraduate students:
+I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 2 undergraduate students:
 
 {% include section.html %}
 
@@ -36,7 +36,7 @@ I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I 
 ## Funding
 
 {% capture text %}
-Our work is made possible by funding from the NIH (R01AG078758 - PI: Laura Fonken, Co-I: Louise Ince, Co-I: Andrew Gaudet) and start-up funds to Dr. Laura Fonken.
+Our work is made possible by funding from the NIH (R01AG078758 - PI: Laura Fonken, Co-I: Louise Ince, Co-I: Andrew Gaudet) and start-up funds to Laura Fonken.
 
 {:.center}
 {% endcapture %}
