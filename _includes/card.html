@@ -20,6 +20,7 @@
       onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
       loading="lazy"
       alt=""
+      {% if include.imagetitle %}title="{{ include.imagetitle }}"{% endif %}
     >
   </{{ tag }}>
 
