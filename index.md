@@ -78,7 +78,7 @@ I am currently a research associate in the [Fonken lab](https://www.fonkenlab.co
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Team-480x250.jpg"
   link="team"
   title="Team"
   text=text
