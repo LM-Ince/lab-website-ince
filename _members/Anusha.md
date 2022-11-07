@@ -1,7 +1,6 @@
 ---
 name: Anusha Dabak
 image: images/Anusha.jpg
-description: Undergraduate Researcher
 role: undergrad
 # aliases:
 #   - A. Dabak

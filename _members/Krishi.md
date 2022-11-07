@@ -1,7 +1,6 @@
 ---
 name: Krishi Manem
 image: images/Krishi.jpg
-description: Undergraduate Researcher
 role: undergrad
 # group: alum
 # aliases:
