@@ -18,8 +18,8 @@ links:
   twitter: LM_Ince
 ---
 
-Dr. Louise Ince completed her BSc in Cognitive Neuroscience & Psychology, MRes in Integrative Biology and PhD in Neuroscience at the University of Manchester, UK. She performed her dissertation research under the supervision of Prof. Andrew Loudon, Prof. David Ray and Prof. Julie Gibbs, working on rhythmic glucocorticoid signaling & neutrophil migration to the lung after inflammatory challenge. 
+I completed my B.Sc. in Cognitive Neuroscience & Psychology, M.Res. in Integrative Biology and Ph.D. in Neuroscience at the University of Manchester, UK. My dissertation research focused on rhythmic glucocorticoid signaling and neutrophil migration to the lung after inflammatory challenge in mice, and was performed under the supervision of Prof. Andrew Loudon, Prof. David Ray, and Prof. Julie Gibbs. I discovered that the acute immune response in the lung was highest following inflammatory stimulation during the early rest (light) phase, modulated by rhythms in glucocorticoid signaling in the lung epithelium.
 
-She then joined the [Scheiermann lab](https://www.scheiermannlab.de/) as a post-doc, where she studied the influence of biological rhythms upon adaptive immune function, including temporal variation in dendritic cell trafficking and modulation of vaccination efficacy. 
+In 2015, I joined the [Scheiermann lab](https://www.scheiermannlab.de/) as a post-doc, where I studied the influence of biological rhythms upon adaptive immune function, including time-of-day variation in dendritic cell trafficking and response to vaccination. Simply changing the time at which immunotherapies (e.g., cancer therapies, vaccines, and anti-inflammatory drugs) are given can increase their efficacy.
 
-Now a Research Associate in the [Fonken lab](https://www.fonkenlab.com/), Louise is using her expertise in rhythmic immunology to investigate how changes in neuroimmune rhythms contribute to cognitive decline in aging and dementia.
+I am now a Research Associate in the [Fonken lab](https://www.fonkenlab.com/), using my expertise in rhythmic immunology to investigate how changes in neuroimmune rhythms contribute to cognitive decline in aging and dementia. I look forward to establishing my own lab studying rhythms at CNS-immune interfaces and immune feedback to the circadian system. 
