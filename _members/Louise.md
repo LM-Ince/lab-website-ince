@@ -11,10 +11,10 @@ aliases:
   - Louise Ince
 
 links:
+  cv: /assets/CV - Louise Ince.pdf
   orcid: 0000-0002-2093-0876
   email: louise.ince@austin.utexas.edu
   google-scholar: Louise Ince
-  github: LM-Ince
   twitter: LM_Ince
 ---
 

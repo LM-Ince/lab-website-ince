@@ -6,6 +6,12 @@ link:
   tooltip: Link
   link: $LINK
 
+cv:
+  icon: fas fa-file
+  text: CV
+  tooltip: CV
+  link: $LINK
+
 external:
   icon: fas fa-external-link-alt
   text: External Link
