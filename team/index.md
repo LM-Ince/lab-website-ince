@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 2 undergraduate students:
+I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 2 undergraduate students:
 
 {% include section.html %}
 
@@ -15,7 +15,7 @@ I am a research associate in the [Fonken lab](https://www.fonkenlab.com/) and I 
   include list.html
   data="members"
   component="portrait"
-  filters="role: research associate"
+  filters="role: research scientist"
 %}
 {%
   include list.html

@@ -1,7 +1,7 @@
 ---
 name: Louise Ince
 image: images/Louise Ince - Square.jpg
-role: research associate
+role: research scientist
 aliases:
   - L. Ince
   - L. M. Ince
@@ -22,4 +22,4 @@ I completed my B.Sc. in Cognitive Neuroscience & Psychology, M.Res. in Integrati
 
 In 2015, I joined the [Scheiermann lab](https://www.scheiermannlab.de/) as a post-doc, where I studied the influence of biological rhythms upon adaptive immune function, including time-of-day variation in dendritic cell trafficking and response to vaccination. Simply changing the time at which immunotherapies (e.g., cancer therapies, vaccines, and anti-inflammatory drugs) are given can increase their efficacy.
 
-I am now a Research Associate in the [Fonken lab](https://www.fonkenlab.com/), using my expertise in rhythmic immunology to investigate how changes in neuroimmune rhythms contribute to cognitive decline in aging and dementia. I look forward to establishing my own lab studying rhythms at CNS-immune interfaces and immune feedback to the circadian system. 
+I am now a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/), using my expertise in rhythmic immunology to investigate how changes in neuroimmune rhythms contribute to cognitive decline in aging and dementia. I look forward to establishing my own lab studying rhythms at CNS-immune interfaces and immune feedback to the circadian system. 
