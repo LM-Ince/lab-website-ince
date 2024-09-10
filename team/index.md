@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 2 undergraduate students:
+I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 3 undergraduate students:
 
 {% include section.html %}
 
