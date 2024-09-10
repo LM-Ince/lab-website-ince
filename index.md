@@ -64,7 +64,7 @@ My previous work identified rhythms in adaptive and innate immune responses, inc
 %}
 
 {% capture text %}
-I am currently a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/), where I mentor 2 undergraduate students.
+I am currently a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/), where I mentor 3 undergraduate students.
 
 {%
   include link.html
