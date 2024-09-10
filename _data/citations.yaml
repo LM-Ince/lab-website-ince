@@ -1,6 +1,98 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1177/07487304241232447
+  title: 'Circadian Variation in the Response to Vaccination: A Systematic Review
+    and Evidence Appraisal'
+  authors:
+  - Cathy A. Wyse
+  - Laura M. Rudderham
+  - Enya A. Nordon
+  - Louise M. Ince
+  - Andrew N. Coogan
+  - Lorna M. Lopez
+  publisher: Journal of Biological Rhythms
+  date: '2024-03-08'
+  link: https://doi.org/gvpd5g
+  image: images/logo.svg
+  _cache: e5e163b3d6b7d3f75acd88ff8d7e63db27dd626f5b42bd6c269c7ca309effe6c
+- id: 10.1016/j.bbi.2023.09.009
+  title: Sex differences in microglia function in aged rats underlie vulnerability
+    to cognitive decline
+  authors:
+  - Louise M. Ince
+  - Jeffrey S. Darling
+  - Kevin Sanchez
+  - Kiersten S. Bell
+  - Jennifer K. Melbourne
+  - Lourdes K. Davis
+  - Kimberly Nixon
+  - Andrew D. Gaudet
+  - Laura.K. Fonken
+  publisher: Brain, Behavior, and Immunity
+  date: '2023-11-01'
+  link: https://doi.org/gvpd5p
+  image: images/logo.svg
+  _cache: 9b9ac53abd9595ee59824323ee4680c34077a07680d2dd98a5e14ab647202a14
+- id: 10.1038/s41586-022-05605-0
+  title: Dendritic cells direct circadian anti-tumour immune responses
+  authors:
+  - Chen Wang
+  - Coline Barnoud
+  - Mara Cenerenti
+  - Mengzhu Sun
+  - Irene Caffa
+  - Burak Kizil
+  - Ruben Bill
+  - Yuanlong Liu
+  - Robert Pick
+  - Laure Garnier
+  - Olga A. Gkountidi
+  - Louise M. Ince
+  - Stephan Holtkamp
+  - Nadine Fournier
+  - Olivier Michielin
+  - Daniel E. Speiser
+  - "St\xE9phanie Hugues"
+  - Alessio Nencioni
+  - "Mika\xEBl J. Pittet"
+  - Camilla Jandus
+  - Christoph Scheiermann
+  publisher: Nature
+  date: '2022-12-05'
+  link: https://doi.org/grdzrr
+  image: images/logo.svg
+  _cache: 619fef22df333fa4951d8464736ea504564349307bb042ece7e2b23f44c3807f
+- id: 10.1038/s41467-023-35979-2
+  title: Influence of circadian clocks on adaptive immunity and vaccination responses
+  authors:
+  - Louise Madeleine Ince
+  - Coline Barnoud
+  - Lydia Kay Lutes
+  - Robert Pick
+  - Chen Wang
+  - Flore Sinturel
+  - Chien-Sin Chen
+  - Alba de Juan
+  - Jasmin Weber
+  - Stephan J. Holtkamp
+  - Sophia Martina Hergenhan
+  - Jennifer Geddes-McAlister
+  - Stefan Ebner
+  - Paola Fontannaz
+  - Benjamin Meyer
+  - Maria Vono
+  - "St\xE9phane Jemelin"
+  - Charna Dibner
+  - Claire-Anne Siegrist
+  - Felix Meissner
+  - Frederik Graw
+  - Christoph Scheiermann
+  publisher: Nature Communications
+  date: '2023-01-30'
+  link: https://doi.org/gvpd5w
+  image: images/logo.svg
+  _cache: 8e3f2b2853144eaf8eb550743238c078c721170c79098b117dfd2f5c082a45c0
 - id: 10.1101/2022.06.06.22275886
   title: 'Measuring circadian rhythms in patients with dementia: protocol for a scoping
     review'
