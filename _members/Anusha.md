@@ -2,6 +2,7 @@
 name: Anusha Dabak
 image: images/Anusha.jpg
 role: undergrad
+group: alum
 # aliases:
 #   - A. Dabak
 #   - A Dabak
