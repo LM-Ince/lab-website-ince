@@ -2,7 +2,7 @@
 name: Krishi Manem
 image: images/Krishi.jpg
 role: undergrad
-# group: alum
+group: alum
 # aliases:
 #   - F. Cited
 #   - F Cited
