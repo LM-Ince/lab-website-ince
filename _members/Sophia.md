@@ -12,4 +12,5 @@ group: current
 #   github: anne-chovie
 ---
 
-Sophia is a sophomore majoring in chemistry. Outside of classes and research she likes hanging with friends, shopping, playing with her cat cookie and swimming.
+Sophia is a sophomore majoring in chemistry. Outside of classes and research she likes hanging with friends, shopping, playing with her cat (Cookie) and swimming.
+Sophia is currently working on analysis of microglial morphology via confocal immunofluorescent imaging.
