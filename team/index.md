@@ -22,13 +22,49 @@ I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I 
   data="members"
   component="portrait"
   filters="role: phd"
+  filters="group: current" 
 %}
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: undergrad"
+  filters="group: current" 
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: technician"
+  filters="group: current" 
+%}
+{:.center}
+
+{% include section.html %}
+
+{% include section.html %}
+## Alumni
+{% 
+  include list.html 
+  data="members" 
+  component="portrait" 
+  filters="role: phd" 
+  filters="group: alum" 
+%} 
+{% 
+  include list.html 
+  data="members" 
+  component="portrait" 
+  filters="role: undergrad" 
+  filters="group: alum" 
+%} 
+{% 
+  include list.html 
+  data="members" 
+  component="portrait" 
+  filters="role: technician" 
+  filters="group: alum" 
+%} 
 {:.center}
 
 {% include section.html %}
