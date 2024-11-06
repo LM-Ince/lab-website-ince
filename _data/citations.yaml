@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1017/9781009057646.013
+  title: Disrupted Circadian Rhythms and Immune Function
+  authors:
+  - Louise M. Ince
+  - Devin Simpkins
+  - Julie E. Gibbs
+  publisher: Biological Implications of Circadian Disruption
+  date: '2023-10-12'
+  link: https://doi.org/g8qbdz
+  image: images/logo.svg
+  _cache: 5db77a715294868d081e58326f18d7f57e6bad142f601c2fdae62abf6148f784
 - id: 10.1177/07487304241232447
   title: 'Circadian Variation in the Response to Vaccination: A Systematic Review
     and Evidence Appraisal'
@@ -423,14 +434,18 @@
   link: https://doi.org/f9qvf7
   image: images/logo.svg
   _cache: bd49728fd6bf9408b3afdee7df08b17c0c8cbaccb495030160960f7650f74037
-- id: doi:10.1007/978-1-4939-3450-8
-  title: 'Circadian Clocks: Role in Health and Disease'
-  authors: []
-  publisher: Springer New York
+- id: doi:10.1007/978-1-4939-3450-8_9
+  title: Regulation of Immunity by the Circadian Clock
+  authors:
+  - Alba de Juan
+  - David Druzd
+  - Louise Ince
+  - Christoph Scheiermann
+  publisher: 'Circadian Clocks: Role in Health and Disease'
   date: '2016-01-01'
-  link: https://doi.org/gq328n
+  link: https://doi.org/g8qbd2
   image: images/logo.svg
-  _cache: 77e5341872bffb909f795a2cbf26d1e958a446c3c72a9ded4acb9827ea9e2713
+  _cache: 6757f043199cf3d3ce540da9b8fb71f63e8b2d924299439d0a41a27303e84a19
 - id: doi:10.1530/joe-14-0456
   title: Serum cholesterol selectively regulates glucocorticoid sensitivity through
     activation of JNK
