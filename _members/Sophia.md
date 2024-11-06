@@ -2,6 +2,7 @@
 name: Sophia Martinez
 image: images/Sophia.jpg
 role: undergrad
+group: current
 # aliases:
 #   - S. Martinez
 #   - S Martinez
