@@ -2,6 +2,7 @@
 name: Akanksha Acharya
 image: images/Akanksha.jpg
 role: undergrad
+group: current
 # aliases:
 #   - A. Acharya
 #   - A Acharya
