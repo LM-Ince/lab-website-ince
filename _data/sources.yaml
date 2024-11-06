@@ -1,3 +1,6 @@
+- id: 10.1017/9781009057646.013
+  image: images/logo.svg
+  
 - id: 10.1177/07487304241232447
   image: images/logo.svg
   
@@ -58,7 +61,7 @@
 - id: doi:10.1016/j.immuni.2016.12.011
   image: images/logo.svg 
 
-- id: doi:10.1007/978-1-4939-3450-8
+- id: doi:10.1007/978-1-4939-3450-8_9
   image: images/logo.svg 
 
 - id: doi:10.1530/joe-14-0456
