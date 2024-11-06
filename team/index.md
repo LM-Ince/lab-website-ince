@@ -21,22 +21,19 @@ I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I 
   include list.html
   data="members"
   component="portrait"
-  filters="group: current"
-  filters="role: phd" 
+  filters="group: current, role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="group: current" 
-  filters="role: undergrad"
+  filters="group: current, role: undergrad" 
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="group: current"
-  filters="role: technician"
+  filters="group: current, role: technician"
   %}
 {:.center}
 
@@ -47,22 +44,19 @@ I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I 
   include list.html 
   data="members" 
   component="portrait" 
-  filters="group: alum" 
-  filters="role: phd" 
+  filters="group: alum, role: phd" 
 %} 
 {% 
   include list.html 
   data="members" 
   component="portrait" 
-  filters="group: alum" 
-  filters="role: undergrad" 
+  filters="group: alum, role: undergrad" 
 %} 
 {% 
   include list.html 
   data="members" 
   component="portrait" 
-  filters="group: alum" 
-  filters="role: technician" 
+  filters="group: alum, role: technician" 
 %} 
 
 {:.center}
