@@ -42,7 +42,6 @@ I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I 
 
 {% include section.html %}
 
-{% include section.html %}
 ## Alumni
 {% 
   include list.html 
