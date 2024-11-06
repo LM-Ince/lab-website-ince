@@ -48,7 +48,21 @@ I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I 
   data="members" 
   component="portrait" 
   filters="group: alum" 
-  filters="role: phd, undergrad, technician" 
+  filters="role: phd" 
+%} 
+{% 
+  include list.html 
+  data="members" 
+  component="portrait" 
+  filters="group: alum" 
+  filters="role: undergrad" 
+%} 
+{% 
+  include list.html 
+  data="members" 
+  component="portrait" 
+  filters="group: alum" 
+  filters="role: technician" 
 %} 
 
 {:.center}
