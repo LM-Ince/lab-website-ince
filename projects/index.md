@@ -11,8 +11,8 @@ I aim to understand the interactions between the circadian and immune systems, w
 
 <div class="centered-questions">
   <ol>
-    <li>1. How do circadian rhythms regulate inflammation?</li>
-    <li>2. What are the consequences of circadian disruption on immune function?</li>
+    <li>How do circadian rhythms regulate inflammation?</li>
+    <li>What are the consequences of circadian disruption on immune function?</li>
   </ol>
 </div>
    
