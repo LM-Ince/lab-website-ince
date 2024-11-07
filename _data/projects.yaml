@@ -19,3 +19,14 @@
   # repo: LM-Ince/lab-website-ince
   # tags:
   #   - resource
+
+- title: Sex differences in neuroimmune aging
+  subtitle: How do sex differences in immune function influence age-associated cognitive decline?
+  group: featured
+  image: images/UT14 Summary-350x233.png
+  imagetitle: Created with Biorender.com
+  link: https://pubmed.ncbi.nlm.nih.gov/37709153/
+  description: Female rats exhibit less age-associated neuroinflammatory priming than male rats, and aged females are more resistant to inflammation-induced cognitive decline.
+#  # repo: LM-Ince/lab-website-ince
+#  # tags:
+#  #   - resource
