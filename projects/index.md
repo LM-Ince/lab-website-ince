@@ -7,7 +7,13 @@ nav:
 
 # <i class="fas fa-projects"></i>Projects
 
-I aim to understand the interactions between the circadian and neuroimmune systems, and to determine how circadian disruption impairs cognition via neuroinflammatory mechanisms (e.g., in aging and pathology).
+I aim to understand the interactions between the circadian and immune systems, with the goal of using rhythmic immunity to improve health. My research is driven by the central questions: 
+1) How do circadian rhythms regulate inflammation?
+2) What are the consequences of circadian disruption on immune function?
+   
+The immune system has a critical biological function, governing an organism’s interaction with the environment and its ultimate survival. Immune function is also highly rhythmic: there are daily patterns of immune cell migration and in immune cell reactivity to stimuli (e.g., production of inflammatory cytokines, uptake of antigens). Inflammation is a common component in the etiology of many diseases, but our immune system can also be used to our advantage in fighting cancer and infections. Thus, a deeper understanding of the mechanisms regulating immune function will facilitate development of both restorative and preventative therapies.
+
+I am particularly interested in how immune function and circadian immunity changes in the context of aging, and the potential for circadian-based strategies to boost immune health.
 
 {% include search-info.html %}
 
