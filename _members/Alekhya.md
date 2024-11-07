@@ -12,4 +12,4 @@ group: current
 #   github: anne-chovie
 ---
 
-Alekhya is a sophomore majoring in biology and a member of the Kappa Rho Pre-Medical Honor Society. She is currently working on analysis of phagocytic activity in microglia via immunofluorescent imaging.
+Alekhya is a sophomore majoring in biology. Outside of classes and research she enjoys going to UT football games, reading, and listening to music. Alekhya is currently working on analysis of phagocytic activity in microglia via immunofluorescent imaging.
