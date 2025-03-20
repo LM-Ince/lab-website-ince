@@ -7,12 +7,12 @@ nav:
 
 # <i class="fas fa-projects"></i>Projects
 
-I aim to understand the interactions between the circadian and immune systems, with the goal of using rhythmic immunity to improve health. My research is driven by the central questions:
+I aim to understand the interactions between the circadian and neuroimmune systems, with the goal of using rhythmic immunity to improve health. My research is driven by the central questions:
 
 <div class="centered-questions">
   <ol>
-    <li>How do circadian rhythms regulate inflammation?</li>
-    <li>What are the consequences of circadian disruption on immune function?</li>
+    <li>How do circadian rhythms regulate neuroinflammation?</li>
+    <li>What are the consequences of circadian disruption on neuroimmune function?</li>
   </ol>
 </div>
    
