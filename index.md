@@ -2,12 +2,12 @@
 title: Home
 ---
 
-# Immunology around the clock
+# Neuroimmunology around the clock
 
-Immunology - Chronobiology - Neuroscience
+Neuroscience - Immunology - Chronobiology 
 {:.center}
 <br/>
-By studying the changes to rhythmic immune function in aging, I aim to identify novel therapeutic targets to promote health and longevity.
+By studying the changes to rhythmic neuroimmune function in aging, I aim to identify novel therapeutic targets to promote health and longevity.
 {:.center}
 
 {% include section.html full=true %}
