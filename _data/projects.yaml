@@ -12,10 +12,10 @@
 - title: Novel approaches to increase healthspan
   subtitle: Can we live better longer by harnessing our circadian system?
   group: featured
-  image: images/TRF-350x233.png
+  image: images/UT11 Summary-350x190.png
   imagetitle: Created with Biorender.com
-  # link: https://github.com/
-  description: I am testing how time-restricted feeding modulates neuroinflammation and behavior in aging.
+  link: https://pubmed.ncbi.nlm.nih.gov/41337822/
+  description: Time-restricted feeding alleviates neuroinflammation and social withdrawal in aged mice.
   # repo: LM-Ince/lab-website-ince
   # tags:
   #   - resource
