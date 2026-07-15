@@ -64,7 +64,7 @@ My previous work identified rhythms in adaptive and innate immune responses, inc
 %}
 
 {% capture text %}
-I am currently a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/), where I mentor 3 undergraduate students.
+I am an Assistant Professor at Pomona College, supervising senior theses and mentoring a team of undergraduate neuroscience students.
 
 {%
   include link.html
