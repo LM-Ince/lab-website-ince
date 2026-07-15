@@ -5,7 +5,7 @@ nav:
   tooltip: Teaching
 ---
 
-# <i class="fas fa-projects"></i>Teaching
+# <i class="fas fa-user-graduate"></i>Teaching
 
 I currently teach two upper-division classes:
 
