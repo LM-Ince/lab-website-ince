@@ -12,4 +12,4 @@ group: alum
 #   github: anne-chovie
 ---
 
-Alekhya is a senior at UT Austin majoring in biology. Outside of classes and research she enjoys going to UT football games, reading, and listening to music. Alekhya is currently working on analysis of phagocytic activity in microglia via immunofluorescent imaging.
+Alekhya is a senior at UT Austin majoring in biology. Outside of classes and research she enjoys going to UT football games, reading, and listening to music. Alekhya studied sex differences in rhythms of phagocytic activity in microglia via immunofluorescent imaging.
