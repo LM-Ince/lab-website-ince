@@ -5,7 +5,7 @@ nav:
   tooltip: Current projects
 ---
 
-# <i class="fas fa-projects"></i>Projects
+# <i class="fas fa-microscope"></i>Projects
 
 I aim to understand the interactions between the circadian and neuroimmune systems, with the goal of using rhythmic immunity to improve health. My research is driven by the central questions:
 
