@@ -7,15 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-I am part of the [Fonken lab](https://www.fonkenlab.com/), in the [Division of Pharmacology & Toxicology](https://pharmacy.utexas.edu/research-practice/college-divisions/pharmacology-toxicology) at [The University of Texas at Austin](https://www.utexas.edu/).
+I am an Assistant Professor of [Neuroscience](https://www.pomona.edu/academics/departments/neuroscience) at [Pomona College](https://www.pomona.edu/).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="louise.ince@austin.utexas.edu"
+  text="louise.ince@pomona.edu"
   tooltip=""
-  link="louise.ince@austin.utexas.edu"
+  link="louise.ince@pomona.edu"
   style="button"
 %}
 {%
@@ -24,7 +24,7 @@ I am part of the [Fonken lab](https://www.fonkenlab.com/), in the [Division of P
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/The+University+of+Texas+at+Austin+Biomedical+Engineering+(BME)/@30.2893706,-97.741015,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5831f0c4335:0xd1b21a4c7b9709a1!8m2!3d30.2893738!4d-97.7388712"
+  link="https://maps.app.goo.gl/gnPZdGPsoENfv9Ws6"
   style="button"
 %}
 {:.center}
@@ -33,16 +33,16 @@ I am part of the [Fonken lab](https://www.fonkenlab.com/), in the [Division of P
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-107 W Dean Keeton St.
-BME 3.513B  
-Austin
-TX 78712
+Richard C. Seaver Biology Building
+175 W. Sixth Street 
+Claremont
+CA 91711
 USA
 {:.center}
 
 {%
   include figure.html
-  image="images/UT Fountain.jpg"
-  caption="UT Austin"
+  image="images/Pomona_Campus.jpg"
+  caption="Pomona College"
 %}
 {:.center}
