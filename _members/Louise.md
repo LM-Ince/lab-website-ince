@@ -1,7 +1,7 @@
 ---
 name: Louise Ince
 image: images/Louise Ince - Square.jpg
-role: Assistant Professor
+role: PI
 aliases:
   - L. Ince
   - L. M. Ince
