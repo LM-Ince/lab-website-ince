@@ -2,7 +2,7 @@
 name: Alekhya Vattikuti
 image: images/Alekhya.jpg
 role: undergrad
-group: alumni
+group: alum
 # aliases:
 #   - A. Vattikuti
 #   - A Vattikuti
