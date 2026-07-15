@@ -2,7 +2,7 @@
 name: Sophia Martinez
 image: images/Sophia.jpg
 role: undergrad
-group: current
+group: alum
 # aliases:
 #   - S. Martinez
 #   - S Martinez
@@ -12,5 +12,5 @@ group: current
 #   github: anne-chovie
 ---
 
-Sophia is a sophomore majoring in chemistry. Outside of classes and research she likes hanging with friends, shopping, playing with her cat (Cookie) and swimming.
-Sophia is currently working on analysis of microglial morphology via confocal immunofluorescent imaging.
+Sophia is a senior majoring in biochemistry. Outside of classes and research she likes hanging with friends, shopping, playing with her cat (Cookie) and swimming.
+Sophia characterized changes to microglial morphology in aging and clock dsiruption scenarios via confocal immunofluorescent imaging.
