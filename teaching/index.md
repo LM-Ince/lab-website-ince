@@ -5,31 +5,21 @@ nav:
   tooltip: Teaching
 ---
 
-# <i class="fas fa-projects"></i>Projects
+# <i class="fas fa-projects"></i>Teaching
 
-I aim to understand the interactions between the circadian and neuroimmune systems, with the goal of using rhythmic immunity to improve health. My research is driven by the central questions:
+I currently teach two upper-division classes:
 
-<div class="centered-questions">
-  <ol>
-    <li>How do circadian rhythms regulate neuroinflammation?</li>
-    <li>What are the consequences of circadian disruption on neuroimmune function?</li>
-  </ol>
-</div>
-   
-The immune system has a critical biological function, governing an organism’s interaction with the environment and its ultimate survival. Immune function is also highly rhythmic: there are daily patterns of immune cell migration and in immune cell reactivity to stimuli (e.g., production of inflammatory cytokines, uptake of antigens). Inflammation is a common component in the etiology of many diseases, but our immune system can also be used to our advantage in fighting cancer and infections. Thus, a deeper understanding of the mechanisms regulating immune function will facilitate development of both restorative and preventative therapies.
-
-I am particularly interested in how immune function and circadian immunity changes in the context of aging, and the potential for circadian-based strategies to boost immune health.
-
-{% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Vertebrate Sensory Systems (NEUR130) - Fall 2026
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+Vertebrates possess diverse sensory systems for interpreting both the external world and internal physiological state. This course examines smell, taste, touch, vision, and hearing from molecular to systems levels, with emphasis on development and plasticity. Additional topics include time perception, immune-brain signaling, and comparative and exotic sesnroy systems, highlighting how sensory processing supports behavior, adaptation, and survival. 
 
 {% include section.html %}
 
-<!-- ## More
+## Chronobiology (TBD) - Spring 2027
 
-{% include list.html component="card" data="projects" filters="group: more" style="small" %} -->
+This course explores how organisms from bacteria to humans measure and anticipate time. We will examine how the molecular gears of the circadian clock generate daily rhythms in physiology and behavior, how internal rhythms are set and reset by environmental cues such as light and temperature, and what happens when these rhythms are disrupted (e.g., jet lag, shift work). We will also cover rhythms beyond the 24-hour cycle, including pulsatile hormone release, tidal rhythms, and seasonal timing.
+
+{% include section.html %}
