@@ -7,7 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I currently mentor 3 undergraduate students:
+I am an Assistant Professor at Pomona College in Claremont, CA. 
+If you are a student in the Claremont Colleges and interested in joining the lab for senior thesis or research experience, please email me or stop by one of my classes.
 
 {% include section.html %}
 
@@ -66,7 +67,7 @@ I am a Research Scientist in the [Fonken lab](https://www.fonkenlab.com/) and I 
 ## Funding
 
 {% capture text %}
-Our work is made possible by funding from the NIH (R01AG078758 - PI: Laura Fonken, Co-I: Louise Ince, Co-I: Andrew Gaudet) and start-up funds to Laura Fonken.
+Our work is made possible by funding from the NIH (R01AG078758 - PI: Laura Fonken, Co-I: Louise Ince, Co-I: Andrew Gaudet) and start-up funds to Louise Ince.
 
 {:.center}
 {% endcapture %}
