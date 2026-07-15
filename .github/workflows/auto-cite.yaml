@@ -1,6 +1,7 @@
 name: Auto Cite
 
 on:
+  workflow_dispatch: 
   push:
     branches:
       - main
