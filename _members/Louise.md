@@ -15,7 +15,7 @@ links:
   orcid: 0000-0002-2093-0876
   email: louise.ince@pomona.edu
   google-scholar: Louise Ince
-  bluesky: @louise-ince.bsky.social
+  bluesky: louise-ince.bsky.social
 ---
 
 I completed my B.Sc. in Cognitive Neuroscience & Psychology, M.Res. in Integrative Biology and Ph.D. in Neuroscience at the University of Manchester, UK. My dissertation research focused on rhythmic glucocorticoid signaling and neutrophil migration to the lung after inflammatory challenge in mice, and was performed under the supervision of Prof. Andrew Loudon, Prof. David Ray, and Prof. Julie Gibbs. I discovered that the acute immune response in the lung was highest following inflammatory stimulation during the early rest (light) phase, modulated by rhythms in glucocorticoid signaling in the lung epithelium.
