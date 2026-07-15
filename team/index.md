@@ -16,7 +16,7 @@ If you are a student in the Claremont Colleges and interested in joining the lab
   include list.html
   data="members"
   component="portrait"
-  filters="role: research scientist"
+  filters="role: PI"
 %}
 {%
   include list.html
