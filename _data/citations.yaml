@@ -1,6 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1016/j.neurobiolaging.2025.11.007
+  title: Time-restricted feeding rescues sociability deficits and reduces neuroinflammation
+    in aged mice
+  authors:
+  - Louise M. Ince
+  - Brandy N. Routh
+  - Jeffrey S. Darling
+  - Krishi Manem
+  - Akshay Prabhakar
+  - Sophia Martinez
+  - Emily Chan
+  - Ruizhuo Chen
+  - Andrew D. Gaudet
+  - Laura K. Fonken
+  publisher: Neurobiology of Aging
+  date: '2026-03-01'
+  link: https://doi.org/hcbqbs
+  image: images/logo.svg
+  _cache: ecc38fb1824bea9b417f96b17b36626833a3194f2cf3fc17ee13a55d94d42bf5
+- id: 10.1016/j.bbi.2025.03.005
+  title: Neuroimmune and behavioral changes elicited by maternal immune activation
+    in mice are ameliorated by early postnatal immune stimulation
+  authors:
+  - Lourdes K. Davis
+  - Louise M. Ince
+  - Sriya Gullapalli
+  - Laura K. Fonken
+  publisher: Brain, Behavior, and Immunity
+  date: '2025-07-01'
+  link: https://doi.org/hcbqbt
+  image: images/logo.svg
+  _cache: ada4380c75fd506319dd85ad5714670f6eaa4f5580dadb80bdd895d85f8eff1b
 - id: 10.1017/9781009057646.013
   title: Disrupted Circadian Rhythms and Immune Function
   authors:
