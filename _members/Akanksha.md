@@ -13,4 +13,4 @@ group: alum
 ---
 
 Akanksha is a senior majoring in neuroscience in the Dean's Scholars honors program. Outside of research and academics, she enjoys dancing, kayaking, and trying unique foods.
-Akanksha's work focused on analysis of circadian rhythms in aging mouse tissues via real-time bioluminescent recording (Lumicycle).
+Akanksha's work focused on analysis of circadian rhythms in aging mouse tissues via real-time bioluminescent recording (Lumicycle) and she was selected as the top undergraduate poster presentation for the College of Pharmacy Research Excellence Day 2026.
