@@ -12,4 +12,4 @@ group: alum
 #   twitter: felixcited
 ---
 
-Emily worked with us in 2023 as a postbac research technician and received training in qPCR, cryosectioning, and immunofluorescent imaging.
+Emily was a postbac research technician with us in 2023-2024 and supported multiple projects by performing qPCR, cryosectioning, and immunofluorescent imaging. She is currently enjoying life in the SF Bay Area!
