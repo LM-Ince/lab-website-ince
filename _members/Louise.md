@@ -24,4 +24,5 @@ In 2015, I joined the [Scheiermann lab](https://www.scheiermannlab.de/) as a pos
 
 In 2021, I joined the [Fonken lab](https://www.fonkenlab.com/) as a research scientist, using my expertise in rhythmic immunology to investigate how changes in neuroimmune rhythms contribute to cognitive decline in aging and dementia. I discovered that a circadian intervention (i.e., time-restricted feeding) ameliorated neuroinflammation and increased social interaction in aged mice, and have ongoing studies investigating the role of circadian rhythms in choroid plexus neuroimmune signaling.
 
-I am now an Assistant Professor at Pomona College, leading a research program in circadian neuroimmunology and teaching Sensory Systems and Chronobiology. If you are interested in joining the lab or taking a class with me - reach out via email and let's chat!
+I am now an Assistant Professor at Pomona College, leading a research program in circadian neuroimmunology and teaching Sensory Systems and Chronobiology. If you are interested in joining the lab, please fill out the application form below:
+[Ince Lab Application)](https://forms.gle/NhLruhkEd4grhsz17)
