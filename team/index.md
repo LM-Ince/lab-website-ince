@@ -8,7 +8,9 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 I am an Assistant Professor at Pomona College in Claremont, CA. 
-If you are a student in the Claremont Colleges and interested in joining the lab for senior thesis or research experience, please email me or stop by one of my classes.
+If you are a student in the Claremont Colleges and interested in joining the lab for senior thesis or research experience, please complete this form:
+
+[Ince Lab Application Form](https://forms.gle/NhLruhkEd4grhsz17)
 
 {% include section.html %}
 
