@@ -42,7 +42,7 @@ If you are a student in the Claremont Colleges and interested in joining the lab
 
 {% include section.html %}
 
-## Alumni
+## Alumni (Fonken Lab)
 {% 
   include list.html 
   data="members" 
