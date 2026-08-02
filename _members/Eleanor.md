@@ -12,4 +12,4 @@ group: alum
 #   twitter: felixcited
 ---
 
-Eleanor majors in Physics at Carleton College and joined us for Summer 2024 to work on confocal imaging of the meninges. She is now in her Junior year at Carleton.
+Eleanor majored in Physics at Carleton College and joined us for Summer 2024 to work on confocal imaging of the meninges. She is now establishing this technique as a lab manager at Carleton.
