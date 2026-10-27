@@ -7,10 +7,13 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-I am an Assistant Professor at Pomona College in Claremont, CA. 
+Prof. Ince is Assistant Professor of Neuroscience at Pomona College in Claremont, CA. 
+
 If you are a student in the Claremont Colleges and interested in joining the lab for senior thesis or research experience, please complete this form:
 
 [Ince Lab Application Form](https://forms.gle/NhLruhkEd4grhsz17)
+
+Pomona SURP applications are also welcomed! Priority will be given to students who have already performed research in the lab or taken a class with Prof. Ince, so please complete the above form and reach out if you are interested in a Summer project.
 
 {% include section.html %}
 
