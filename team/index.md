@@ -20,6 +20,9 @@ If you are a student in the Claremont Colleges and interested in joining the lab
   component="portrait"
   filters="role: PI"
 %}
+
+{% include section.html %}
+
 {%
   include list.html
   data="members"
@@ -69,7 +72,7 @@ If you are a student in the Claremont Colleges and interested in joining the lab
 ## Funding
 
 {% capture text %}
-Our work is made possible by funding from the NIH (R01AG078758 - PI: Laura Fonken, Co-I: Louise Ince, Co-I: Andrew Gaudet) and start-up funds to Louise Ince.
+Our work is made possible by start-up funds to Louise Ince and previous grant funding from the NIH (R01AG078758 - PI: Laura Fonken, Co-I: Louise Ince, Co-I: Andrew Gaudet).
 
 {:.center}
 {% endcapture %}
