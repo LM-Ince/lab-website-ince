@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Prof. Ince is Assistant Professor of Neuroscience at Pomona College in Claremont, CA. 
+I am Assistant Professor of Neuroscience at Pomona College in Claremont, CA, but my research would not be possible without this dedicated team of students! 
 
 If you are a student in the Claremont Colleges and interested in joining the lab for senior thesis or research experience, please complete this form:
 
