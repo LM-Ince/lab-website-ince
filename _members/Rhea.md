@@ -1,6 +1,6 @@
 ---
 name: Rhea Sethi
-image: images/Rhea.jpg
+image: images/Rhea.jpeg
 role: undergrad
 group: current
 ---

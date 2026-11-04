@@ -1,6 +1,6 @@
 ---
 name: Mollie Appl
-image: images/Mollie.jpg
+image: images/Mollie.JPG
 role: undergrad
 group: current
 ---
