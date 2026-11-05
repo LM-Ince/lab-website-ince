@@ -24,8 +24,6 @@ Pomona SURP applications are also welcomed! Priority will be given to students w
   filters="role: PI"
 %}
 
-{% include section.html %}
-
 {%
   include list.html
   data="members"
