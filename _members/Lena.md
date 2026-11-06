@@ -1,6 +1,6 @@
 ---
 name: Magdalena Papa
-image: images/Lena.HEIC
+image: images/Lena.png
 role: undergrad
 group: current
 ---
