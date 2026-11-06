@@ -9,11 +9,17 @@ nav:
 
 I am Assistant Professor of Neuroscience at Pomona College in Claremont, CA, but my research would not be possible without this dedicated team of students! 
 
-If you are a student in the Claremont Colleges and interested in joining the lab for senior thesis or research experience, please complete this form:
+If you are a student in the Claremont Colleges and interested in joining the lab for senior thesis or research experience, please complete this form and email Prof. Ince with a short description of your research experience/interest:
 
-[Ince Lab Application Form](https://forms.gle/NhLruhkEd4grhsz17)
+<a href="https://forms.gle/NhLruhkEd4grhsz17">
+  <button style="padding: 10px 20px; background-color: #da4409; color: white; border: none; border-radius: 6px; font-weight: 600; cursor: pointer;">
+    Ince Lab Application Form
+  </button>
+</a>
 
-Pomona SURP applications are also welcomed! Priority will be given to students who have already performed research in the lab or taken a class with Prof. Ince, so please complete the above form and reach out if you are interested in a Summer project.
+**Spring 2027:** Prof. Ince is no longer taking applications for research placements in Spring 2027.
+
+**Summer 2027:** Pomona SURP applications are welcomed! Please complete the above form and reach out if you are interested in a Summer project. 
 
 {% include section.html %}
 
