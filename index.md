@@ -7,7 +7,7 @@ title: Home
 Neuroscience - Immunology - Chronobiology 
 {:.center}
 <br/>
-By studying the changes to rhythmic neuroimmune function in aging, I aim to identify novel therapeutic targets to promote health and longevity.
+I study how molecular circadian clocks regulate immune function across the lifespan, using aging and circadian disruption as model systems to reveal core principles of neuroimmune regulation.
 {:.center}
 
 {% include section.html full=true %}
